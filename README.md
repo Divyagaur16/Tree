@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Divyagaur16/Tree/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Divyagaur16/Tree/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyagaur16/Tree/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Divyagaur16/Tree/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
